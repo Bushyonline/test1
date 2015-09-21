@@ -1,2 +1,4 @@
 File 1 test contents
 Small change on master branch
+Added another new line
+
